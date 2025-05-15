@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center><h1> 📊 GitHub Stats</h1></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JJUNHYEOK&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJUNHYEOK&layout=compact&theme=tokyonight" />
+</div>
+
 <div align=center><h1> 🛠️ SKILL STACKS</h1></div>
 <p align="center">
   <a href="https://skillicons.dev">
