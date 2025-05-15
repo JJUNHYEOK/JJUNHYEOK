@@ -1,5 +1,5 @@
 ## Welcome to my world ! 😎 💻
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:004D98,100:A50044&height=220&section=header&text=JunHyeok%20%7C%20Cul%C3%A9%20Fan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Mes%20que%20un%20Club%20%7C%20Visca%20Bar%C3%A7a!&descAlign=70&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004D98,100:A50044&height=220&section=header&text=JunHyeok&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Mes%20que%20un%20Club%20%7C%20Visca%20Bar%C3%A7a!&descAlign=70&descAlignY=60&descSize=20)
 <!--
 **junhyeok/junhyeook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
