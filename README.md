@@ -1,5 +1,5 @@
 ## Welcome to my world ! 😎 💻
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3b82f6&height=220&section=header&text=JunHyeok&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Coding%20the%20future%20%F0%9F%9A%80&descAlign=70&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3b82f6&height=220&section=header&text=Coding%20the%20future%20%F0%9F%9A%80&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=60)
 <!--
 **junhyeok/junhyeook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
