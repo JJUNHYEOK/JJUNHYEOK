@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <div align=center><h1> 🛠️ SKILL STACKS</h1></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,apple,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,py,linux,mysql" />
   </a>
 </p>
