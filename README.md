@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## About ME !
 
-- Affiliation : [BDSS LAB](http://bdss.gnu.ac.kr) Undergraduate Intern
+- Affiliation : [BDSS LAB](http://bdss.gnu.ac.kr) @ Undergraduate Intern
 - Research Interest : The broad field of CS, but especially on **Artificial Intelligence** and **Algorithm**
 - What I am really into these days :  **Usage of Storage System when running LLM** . applied AI, Storage System
-- Email : spacehyuck et gmail dot com
+- Email : spacehyuck at gmail dot com
 
 <div align=center><h1> 📊 GitHub Stats</h1></div>
 <div align="center">
