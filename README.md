@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJUNHYEOK&layout=compact&theme=tokyonight" />
 </div>
 
-<div align=center><h1> 📚 Studying / Studied 📖 </h1></div>
+<!-- <div align=center><h1> 📚 Studying / Studied 📖 </h1></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,linux,mysql" />
   </a>
-</p>
+</p> -->
