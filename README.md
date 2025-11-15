@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## About ME !
 
-- Affiliation :Undergraduate Intern @ [BDSS LAB](http://bdss.gnu.ac.kr)
+- Affiliation : Undergraduate Intern @ [BDSS LAB](http://bdss.gnu.ac.kr)
 - Research Interest : The broad field of CS, but especially in **Artificial Intelligence** and **Algorithm**
-- What I am really into these days :  **Analyze and Optimize the usage of Storage System when running LLM** . applied AI, Storage System
+- What I am really into these days :  **Analyze and Optimize the usage of Storage System when running LLM**.  w/ applied AI, Storage System
 - Email : spacehyuck at gmail dot com
 
 <div align=center><h1> 📊 GitHub Stats</h1></div>
