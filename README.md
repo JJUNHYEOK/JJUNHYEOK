@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - Affiliation : Undergraduate Intern @ [BDSS LAB](http://bdss.gnu.ac.kr)
 - Research Interest : The broad field of CS, but especially in **Artificial Intelligence** and **Algorithm**
-- Ongoing Research : Anlayzing/Optimizing the Efficiency of LLM Inference while offloading weights and kv caches on storage(Future Works: Expanding it on edgeAI env) [LLM Inference, Storage System-SSD]
+- Ongoing Research : **Anlayzing/Optimizing the Efficiency of LLM Inference while offloading weights and kv caches on storage**(Future Works: Expanding it on **edgeAI env**) [LLM Inference, Storage System-SSD]
 - Email : spacehyuck [at] gmail [dot] com
 
 <!--## Experiences
