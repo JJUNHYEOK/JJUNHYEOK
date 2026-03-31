@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Research Interest : The broad field of CS, but especially in **Artificial Intelligence** and **Algorithm**
 - Ongoing Research : **Anlayzing/Optimizing the Latency of LLM Inference while offloading weights and kv caches on storage**(Future Works: Expanding it on **edgeAI env**) [LLM Inference, Storage System-SSD]
 - Email : spacehyuck [at] gmail [dot] com
+- [My CV](https://jjunhyeok.github.io/JJUNHYEOK/CV_march_26.pdf)
 
 <!--## Experiences
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
