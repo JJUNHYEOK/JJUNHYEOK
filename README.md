@@ -22,6 +22,23 @@ Here are some ideas to get you started:
 - Email : spacehyuck [at] gmail [dot] com
 - [My CV](https://jjunhyeok.github.io/JJUNHYEOK/CV_aug_2026.pdf)
 
+
+## 📄 Publications & Presentations
+- **SAF: Semantic-Aware Flushing for Latency and Jitter Suppression in Continuous VLA Inference on Edge Devices**  
+  **Junhyeok Jeong**, Jaeho Kim. *IEEE NVMSA (Non-Volatile Memory Systems and Applications Symposium)*, 2026. [[DOI]](https://doi.org/10.1109/NVMSA71223.2026.11658877)
+
+- **Edge VLA 환경에서의 추론을 위한 의미론적 I/O 격리 스케줄링 기법**  
+  **정준혁**, 김재호. *ISET(IEMEK Symposium on Embedded Technology)*, 2026. — 학부생포스터논문세션 우수상
+
+- **자율비행 소프트웨어의 객체 탐지에서 반사실적 설명 기반 실패 경계 탐색**  
+  신지아, 김진우, **정준혁**, 이선아. *한국컴퓨터종합학술대회(KCC)*, 2026. — 우수발표논문상
+
+- **Faster SSD Failure Prediction with Transformer Architecture Using SMART Attributes**  
+  Khanam Ria Jobeda, **Junhyeok Jeong**, Jaeho Kim. *한국소프트웨어종합학술대회(KCS)*, 2025.
+
+- **스토리지 기반 LLM 추론 상황에서의 특징적 I/O 및 레이턴시 분석**  
+  **정준혁**, 최문석, 김재호. *한국반도체학술대회(KCS)*, 2025.
+
 <!--## Experiences
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
