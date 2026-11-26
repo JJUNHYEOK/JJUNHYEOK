@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 ## About ME !
 
-- Affiliation : Undergraduate Researcher @ [BDSS LAB](http://bdss.gnu.ac.kr)
-- Research Interest :  **Artificial Intelligence**, **Algorithm** and **Storage System** 
-- Ongoing Research : **KV Cache Offloading Algorithm on SSD for constrained resource environment; Edge Env(e.g. Jetson)** [LLM Inference, Storage System-SSD, EdgeAI]
+- Affiliation : Firmware Validation Engineer @ [FADU](http://fadu.io)
+- Research Interest :  **Artificial Intelligence**, **Algorithm** and **AIDC Efficiency based on Storage System** 
 - Email : spacehyuck [at] gmail [dot] com
 - [My CV](https://jjunhyeok.github.io/JJUNHYEOK/CV_aug_2026.pdf)
 
