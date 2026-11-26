@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About ME !
 
-- Affiliation : Firmware Validation Engineer @ [FADU](http://fadu.io)
+- Affiliation : Firmware Validation Engineer **@ [FADU](http://fadu.io)**
 - Research Interest :  **Artificial Intelligence**, **Algorithm** and **AIDC Efficiency based on Storage System** 
 - Email : spacehyuck [at] gmail [dot] com
 - [My CV](https://jjunhyeok.github.io/JJUNHYEOK/CV_aug_2026.pdf)
